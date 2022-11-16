@@ -12,7 +12,7 @@ public class Main {
     q.cusArrives(c3);
     q.cusArrives(c4);
     q.cusArrives(c5);
-
+//llllllllllllllllllllllllllllllllllllllllllllllllllllllll
     System.out.println(q.queue);
     System.out.println(q.getNextCus());
     System.out.println(q.queue);
